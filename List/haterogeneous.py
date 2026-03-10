@@ -1,0 +1,1 @@
+a=[10,20,True,print("hello"), def sum(a,b):return a+b]
